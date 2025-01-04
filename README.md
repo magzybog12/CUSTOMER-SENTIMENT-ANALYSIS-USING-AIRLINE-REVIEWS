@@ -1,6 +1,6 @@
 # Customer Sentiment Analysis from Airline Reviews
 
-Welcome to the repository for the project "Analyzing Customer Sentiment from Reviews Published for 5 Different Airlines." This repository contains scripts and resources used in the project, including Python scripts for NLP analysis and web scraping automation, as well as a PowerPoint presentation of the Power BI report.
+Analyzing Customer Sentiment from Reviews Published for 5 Different Airlines." This repository contains scripts and resources used in the project, including Python scripts for NLP analysis and web scraping automation, as well as a PowerPoint presentation of the Power BI report.
 
 ## Project Overview
 
